@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a new branch file
+=======
+new branch file only shows up in the new branch
+>>>>>>> new-branch
